@@ -1,0 +1,63 @@
+﻿Variable,Description
+ID,9 digit code to identify city
+Agglomeration_ID,ID of the agglomeration
+Name,Name of the city
+Country,name of the country
+continent,Name of continent
+iso2,ISO-2 code of the country
+iso3,ISO-3 code of the country
+lat,longitude
+lng,latitutde
+population,population of the city
+Cx,Longitude of centre
+Cy,Latitude of centre
+NBuildings,Number of buildings
+TotalFootprint,Total footprint of the buildings withing polygon
+MeanBuildingArea,Mean area of the buildings
+MedianBuildingArea,Median area of the buildings
+VarBuildingArea,Variance of area of the buildings
+MeanDistanceBuildings,Mean distance between buildings
+WMeanDistanceBuildings,Weighted Mean distance between buildings
+MaxBuildingsDistance,Diameter
+MeanDistanceBuildingsY,Mean distance between buildings for Y and G buildings
+WMeanDistanceBuildingsY,Weighted Mean distance between buildings for Y and G buildings
+MaxBuildingsDistanceY,Maximum distance between two city buildings for Y and G buildings
+MeanDistanceBuildingsG,Mean distance between buildings for G buildings
+WMeanDistanceBuildingsG,Weighted Mean distance between buildings for G buildings
+MaxBuildingsDistanceG,Maximum distance between two city buildings for G buildings
+Elongation,City Elongation
+Sprawl,City Sprawl
+CentreLon,Longitude of centre
+CentreLat,Latitude of centre
+CentreDensity,Density at city centre
+NBuildingsCentre1km,Number of buildings within 1km of city centre
+TotalFootprintCentre1km,Total footprint within 1km of city centre
+NBuildingsCentre3km,Number of buildings within 3km of city centre
+TotalFootprintCentre3km,Total footprint within 3km of city centre
+MeanArea0100m,Average area of buildings within 100m of city centre
+MeanArea0250m,Average area of buildings within 250m of city centre
+MeanArea0500m,Average area of buildings within 500m of city centre
+MeanArea0750m,Average area of buildings within 7500m of city centre
+MeanArea1000m,…
+MeanArea1500m,…
+MeanArea2000m,…
+MeanArea2500m,...
+MeanArea3000m,...
+MeanArea4000m,...
+FootpLargeBuildings050m,% of the footprint of the city from buildings larger than 50m
+FootpLargeBuildings100m,% of the footprint of the city from buildings larger than 100m
+FootpLargeBuildings200m,...
+HullArea,area of the city
+MeanRemoteness,Sparseness
+waterTariff15 m3,Water tariff for 15m3
+waterTariff50 m3,Water tariff for 50m3
+waterTariff100 m3,Water tariff for 100m3
+UrbWaterSafelyManaged,% of people with safely managed water
+UrbWaterPremises,% of people with water in premises
+UrbWaterFreeContamination,% of people with water free of contamination
+UrbWaterPiped,% of people with piped water
+UrbLimitedWater(more than 30m),% of people with water within 30m
+UrbanUnimprovedSanitation,% of people with unimproved sanitation water
+UrbPopwith Water Premises,% of people with water within premises
+UrbPopWithPipedWater,% of people with piped water
+MeanCritInf,Mean critical infrastructure value

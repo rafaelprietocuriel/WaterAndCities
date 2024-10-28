@@ -1,0 +1,41 @@
+Variable,Description
+ID,9 digit code to identify city
+x,longitude of the pixel
+y,latitude of the pixel
+rain,level of rain
+Infrastructure,level of critical infrastructure
+arid,level of aridity
+dens,building density
+DistCen,Distance to city centre
+rwi,relative wealth index in the pixel
+Run01,Rain in Month 01
+Run02,Rain in Month 02
+Run03,Rain in Month 03
+Run04,Rain in Month 04
+Run05,Rain in Month 05
+Run06,Rain in Month 06
+Run07,Rain in Month 07
+Run08,Rain in Month 08
+Run09,Rain in Month 09
+Run10,Rain in Month 10
+Run11,Rain in Month 11
+Run12,Rain in Month 12
+Name,Name of the city
+country,name of the country
+iso3,ISO-3 code of the country
+continent,Name of continent
+nbuildings500m,Number of buildings within 500m of the pixel
+meanArea500m,Average area of buildings within 500m of the pixel
+surface500m,Constructed surface with 500m in square metres
+births,Account of the number of births
+deaths,Account of the number of deaths
+popDens,population density
+GDP.PP,GDP per person
+population,population of the city
+HullArea,area of the city
+RelativeDist,Relative distance to the city centre
+MaxRun,Maximum Rain
+MinRun,Minimum rain
+VarRun,Rain variance
+REM,Remoteness classification
+CitySize,City size classification

@@ -1,0 +1,15 @@
+﻿Variable,Description
+iso3,ISO-3 code of the country
+ID,9 digit code to identify city
+name,Name of the city
+continent,Name of continent
+distCentre,distance to the city centre (km)
+population,population of the city
+year,year of the DHS survey
+wat_pip,with piped water
+wat_pipb,with piped water
+san_sew,with sewage
+san_sep,with sewage
+sew_sep,with sewage
+remoteness,Remoteness of the location
+both,Access to piped water and sewage
