@@ -1,8 +1,10 @@
 # Water and urban forms
-The repository contains three separate tables with the analysis of the links between Water and urban forms. The tables are:
+The repository contains five separate tables with the analysis of the links between Water and urban forms. The tables are:
 - Cities DB
 - Pixels DB
 - Water DB
+- Aridity and rainfall by cities
+- Aridity and rainfall by subregion
 
 The variable ID links the three separate tables. 
 
@@ -15,3 +17,8 @@ The table contains nearly 20,000 observations corresponding to different pixels 
 ## Water DB
 The table contains nearly 125,000 survey respondents from the DHS survey. Each observation corresponds to one survey respondent and answers whether the person has access to water and sewage.
 
+## Aridity and rainfall by cities
+Considers the yearly rainfall for approximately 11,000 cities worldwide and the soil capacity to retain water.
+
+## Aridity and rainfall by subregion
+Considers the yearly rainfall for approximately 11,000 cities worldwide and the soil capacity to retain water. Values are averaged by city, weighted by population.
