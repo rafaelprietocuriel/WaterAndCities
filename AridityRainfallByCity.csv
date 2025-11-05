@@ -9,7 +9,7 @@ CHN9000007,Shanghai,Shanghai,31.1667,121.4667,China,Asia,East Asia and Pacific,E
 BRA9000008,São Paulo,Sao Paulo,-23.55,-46.6333,Brazil,Latin America,Latin America and Caribbean,South America,BRA,23086000,1227,1485
 KOR9000009,Seoul,Seoul,37.56,126.99,South Korea,Asia,East Asia and Pacific,Eastern Asia,KOR,23016000,1130,1339
 MEX9000010,Mexico City,Mexico City,19.4333,-99.1333,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,21804000,1796,673
-EGY9000011,Cairo,Cairo,30.0444,31.2358,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,20296000,2303,25
+EGY9000011,Cairo,Cairo,30.0444,31.2358,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,22995802,2303,25
 USA9000012,New York,New York,40.6943,-73.9249,United States,North America,North America,Northern America,USA,18972871,1305,1191
 BGD9000013,Dhaka,Dhaka,23.7639,90.3889,Bangladesh,Asia,South Asia,Southern Asia,BGD,18627000,1629,2131
 CHN9000014,Beijing,Beijing,39.904,116.4075,China,Asia,East Asia and Pacific,Eastern Asia,CHN,18522000,1427,578
@@ -18,7 +18,7 @@ THA9000016,Bangkok,Bangkok,13.7525,100.4942,Thailand,Asia,East Asia and Pacific,
 CHN9000017,Shenzhen,Shenzhen,22.535,114.054,China,Asia,East Asia and Pacific,Eastern Asia,CHN,17619000,1428,1908
 RUS9000018,Moscow,Moscow,55.7558,37.6178,Russia,Europe,Europe and Central Asia,Eastern Europe,RUS,17332000,786,685
 ARG9000019,Buenos Aires,Buenos Aires,-34.5997,-58.3819,Argentina,Latin America,Latin America and Caribbean,South America,ARG,16710000,1578,1113
-NGA9002027,Lagos,Lagos,6.455,3.3841,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,16637000,1473,1534
+NGA9002027,Lagos,Lagos,6.455,3.3841,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,11847635,1473,1534
 TUR9000021,Istanbul,Istanbul,41.0136,28.955,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,16079000,1332,716
 PAK9000022,Karachi,Karachi,24.86,67.01,Pakistan,Asia,South Asia,Southern Asia,PAK,15738000,2218,142
 IND9000023,Bangalore,Bangalore,12.9789,77.5917,India,Asia,South Asia,Southern Asia,IND,15386000,1915,810
@@ -26,7 +26,7 @@ VNM9000020,Ho Chi Minh City,Ho Chi Minh City,10.7756,106.7019,Vietnam,Asia,East 
 JPN9000025,?saka,Osaka,34.6939,135.5022,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,15126000,1438,1390
 CHN9000026,Chengdu,Chengdu,30.66,104.0633,China,Asia,East Asia and Pacific,Eastern Asia,CHN,14645000,924,978
 IRN9000027,Tehran,Tehran,35.6892,51.3889,Iran,Asia,Middle East and North Africa,Southern Asia,IRN,14148000,2023,246
-COD9000028,Kinshasa,Kinshasa,-4.325,15.3222,Congo (Kinshasa),Africa,Sub-Saharan Africa,Middle Africa,COD,12836000,1305,1429
+COD9000028,Kinshasa,Kinshasa,-4.325,15.3222,Congo (Kinshasa),Africa,Sub-Saharan Africa,Middle Africa,COD,7270000,1305,1429
 BRA9000029,Rio de Janeiro,Rio de Janeiro,-22.9111,-43.2056,Brazil,Latin America,Latin America and Caribbean,South America,BRA,12592000,1426,1211
 IND9000030,Chennai,Chennai,13.0825,80.275,India,Asia,South Asia,Southern Asia,IND,12395000,2221,1248
 CHN9000024,Xi’an,Xi'an,34.2667,108.9,China,Asia,East Asia and Pacific,Eastern Asia,CHN,12328000,1299,598
@@ -48,7 +48,7 @@ CHN9004400,Foshan,Foshan,23.0292,113.1056,China,Asia,East Asia and Pacific,Easte
 JPN9004401,Nagoya,Nagoya,35.1833,136.9,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,9197000,1342,1942
 CHN9004402,Tongshan,Tongshan,34.261,117.1859,China,Asia,East Asia and Pacific,Eastern Asia,CHN,9083790,1425,710
 TWN9000049,Taipei,Taipei,25.0375,121.5625,Taiwan,Asia,East Asia and Pacific,Eastern Asia,TWN,9078000,1410,2849
-AGO9000050,Luanda,Luanda,-8.8383,13.2344,Angola,Africa,Sub-Saharan Africa,Middle Africa,AGO,9051000,1410,490
+AGO9000050,Luanda,Luanda,-8.8383,13.2344,Angola,Africa,Sub-Saharan Africa,Middle Africa,AGO,6979211,1410,490
 CHN9004403,Zhoukou,Zhoukou,33.625,114.6418,China,Asia,East Asia and Pacific,Eastern Asia,CHN,9026015,1371,787
 CHN9004404,Ganzhou,Ganzhou,25.8292,114.9336,China,Asia,East Asia and Pacific,Eastern Asia,CHN,8970014,1317,1481
 MYS9000053,Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,Asia,East Asia and Pacific,Southeastern Asia,MYS,8911000,1487,2379
@@ -61,10 +61,10 @@ VNM9000059,Hanoi,Hanoi,21.0283,105.8542,Vietnam,Asia,East Asia and Pacific,South
 IND9004453,Pune,Pune,18.5203,73.8567,India,Asia,South Asia,Southern Asia,IND,8231000,2056,769
 CHN9004454,Fuyang,Fuyang,32.8986,115.8045,China,Asia,East Asia and Pacific,Eastern Asia,CHN,8200264,1352,868
 IND9002028,Ahmedabad,Ahmedabad,23.03,72.58,India,Asia,South Asia,Southern Asia,IND,8009000,2301,765
-ZAF9000063,Johannesburg,Johannesburg,-26.2044,28.0456,South Africa,Africa,Sub-Saharan Africa,Southern Africa,ZAF,8000000,1819,750
+ZAF9000063,Johannesburg,Johannesburg,-26.2044,28.0456,South Africa,Africa,Sub-Saharan Africa,Southern Africa,ZAF,8314220,1819,750
 COL9000064,Bogotá,Bogota,4.7111,-74.0722,Colombia,Latin America,Latin America and Caribbean,South America,COL,7968095,1269,1247
 CHN9000031,Shenyang,Shenyang,41.8025,123.4281,China,Asia,East Asia and Pacific,Eastern Asia,CHN,7964000,1223,683
-TZA9000066,Dar es Salaam,Dar es Salaam,-6.8161,39.2803,Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,TZA,7962000,1645,1118
+TZA9000066,Dar es Salaam,Dar es Salaam,-6.8161,39.2803,Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,TZA,5325879,1645,1118
 SDN9000067,Khartoum,Khartoum,15.5006,32.56,Sudan,Africa,Sub-Saharan Africa,Northern Africa,SDN,7869000,3229,123
 CHN9004455,Shangqiu,Shangqiu,34.4259,115.6467,China,Asia,East Asia and Pacific,Eastern Asia,CHN,7816831,1424,724
 CHN9004456,Cangzhou,Cangzhou,38.3037,116.8452,China,Asia,East Asia and Pacific,Eastern Asia,CHN,7544300,1510,496
@@ -111,7 +111,7 @@ CHN9000046,Jinan,Jinan,36.6667,116.9833,China,Asia,East Asia and Pacific,Eastern
 EGY9000047,Giza,Giza,29.987,31.2118,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,5598402,2331,22
 CHN9004468,Zhaotong,Zhaotong,27.3328,103.7144,China,Asia,East Asia and Pacific,Eastern Asia,CHN,5591000,1123,876
 CHN9002045,Yichun,Yichun,27.8041,114.383,China,Asia,East Asia and Pacific,Eastern Asia,CHN,5573200,1244,1509
-KEN9000114,Nairobi,Nairobi,-1.2864,36.8172,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,5545000,1545,1007
+KEN9000114,Nairobi,Nairobi,-1.2864,36.8172,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,5877118,1545,1007
 MEX9000115,Guadalajara,Guadalajara,20.6767,-103.3475,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,5525000,1938,908
 USA9000116,Philadelphia,Philadelphia,40.0077,-75.1339,United States,North America,North America,Northern America,USA,5512873,1263,1150
 TUR9000117,Ankara,Ankara,39.93,32.85,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,5503985,1454,396
@@ -137,13 +137,13 @@ CHN9002054,Taizhou,Taizhou,32.4831,119.9,China,Asia,East Asia and Pacific,Easter
 IRN9002055,K?sh?n,Kashan,33.9833,51.4333,Iran,Asia,Middle East and North Africa,Southern Asia,IRN,5000000,2351,170
 CHN9004474,Bozhou,Bozhou,33.8626,115.7742,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4996844,1415,800
 CHN9004475,Suqian,Suqian,33.9331,118.2831,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4986192,1382,769
-CIV9000140,Abidjan,Abidjan,5.3167,-4.0333,Côte d'Ivoire,Africa,Sub-Saharan Africa,West Africa,CIV,4980000,1494,1711
+CIV9000140,Abidjan,Abidjan,5.3167,-4.0333,Côte d'Ivoire,Africa,Sub-Saharan Africa,West Africa,CIV,4717347,1494,1711
 CHN9004476,Huaihua,Huaihua,27.5494,109.9592,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4979600,1125,1294
 CHN9002056,Ji’an,Ji'an,27.1172,114.9793,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4956600,1266,1545
 CHN9004477,Xiaoganzhan,Xiaoganzhan,30.9273,113.911,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4921000,1219,1150
 CHN9004478,Pingdingshan,Pingdingshan,33.735,113.2999,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4904701,1377,773
 CHN9002057,Jiujiang,Jiujiang,29.7048,116.0021,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4896800,1369,1427
-EGY9000146,Alexandria,Alexandria,31.1975,29.8925,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,4870000,1832,173
+EGY9000146,Alexandria,Alexandria,31.1975,29.8925,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,6585102,1832,173
 CHN9002058,Mianyang,Mianyang,31.4669,104.7385,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4868243,968,955
 AUS9000148,Sydney,Sydney,-33.8678,151.21,Australia,Oceania,East Asia and Pacific,Australia and New Zeland,AUS,4840600,1596,1243
 CHN9004479,Huanglongsi,Huanglongsi,34.795,114.345,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4824016,1428,637
@@ -153,7 +153,7 @@ CHN9000051,Changsha,Changsha,28.1987,112.9709,China,Asia,East Asia and Pacific,E
 CHN9002059,Chenzhou,Chenzhou,25.7989,113.0267,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4744500,1208,1445
 CHN9002060,Anqing,Anqing,30.5,117.0333,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4723000,1313,1504
 CHN9002061,Jiangmen,Jiangmen,22.5833,113.0833,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4630300,1328,1952
-ZAF9001616,Cape Town,Cape Town,-33.9253,18.4239,South Africa,Africa,Sub-Saharan Africa,Southern Africa,ZAF,4618000,1603,592
+ZAF9001616,Cape Town,Cape Town,-33.9253,18.4239,South Africa,Africa,Sub-Saharan Africa,Southern Africa,ZAF,3661684,1603,592
 CHN9002062,Xinpu,Xinpu,34.5906,119.1801,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4599360,1350,894
 CHN9002063,Yibin,Yibin,28.7596,104.64,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4588804,1028,1163
 CHN9004480,Yangzhou,Yangzhou,32.3912,119.4363,China,Asia,East Asia and Pacific,Eastern Asia,CHN,4559797,1281,1031
@@ -196,11 +196,11 @@ CHN9004486,Loudi,Loudi,27.7378,111.9974,China,Asia,East Asia and Pacific,Eastern
 CHN9004487,Binzhou,Binzhou,37.3806,118.0125,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3928568,1530,595
 CHN9002079,Deyang,Deyang,31.1289,104.395,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3877000,932,950
 CHN9000061,Taiyuan,Taiyuan,37.8733,112.5425,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3875053,1450,427
-NGA9000198,Kano,Kano,12,8.5167,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,3848885,2366,806
+NGA9000198,Kano,Kano,12,8.5167,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,3888582,2366,806
 CHN9002080,Wuhu,Wuhu,31.334,118.3622,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3842100,1281,1188
 CHN9000062,Nanning,Nanning,22.8192,108.315,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3837978,1373,1430
 CHN9000065,Harbin,Harbin,45.75,126.6333,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3830000,1126,542
-NGA9000202,Abuja,Abuja,9.0667,7.4833,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,3770000,1965,1359
+NGA9000202,Abuja,Abuja,9.0667,7.4833,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1998816,1965,1359
 JPN9000068,Yokohama,Yokohama,35.4442,139.6381,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,3757630,1358,1638
 CHN9004488,Baojishi,Baojishi,34.3609,107.1751,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3738700,1228,685
 CHN9004489,Zaozhuang,Zaozhuang,34.8667,117.55,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3729140,1432,715
@@ -216,7 +216,7 @@ CHN9002084,Changzhou,Changzhou,31.8122,119.9692,China,Asia,East Asia and Pacific
 CHN9002085,Puyang,Puyang,35.7639,115.03,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3598740,1438,574
 CHN9004493,Jiaozuo,Jiaozuo,35.229,113.2304,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3590700,1462,574
 CHN9000072,Nanchang,Nanchang,28.6842,115.8872,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3576547,1292,1575
-NGA9000218,Ibadan,Ibadan,7.3964,3.9167,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,3552000,1540,1353
+NGA9000218,Ibadan,Ibadan,7.3964,3.9167,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,3088477,1540,1353
 CHN9002086,Hechi,Hechi,24.6928,108.085,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3545700,1260,1480
 USA9004494,Detroit,Detroit,42.3834,-83.1024,United States,North America,North America,Northern America,USA,3522856,1191,851
 CAN9000221,Montréal,Montreal,45.5089,-73.5617,Canada,North America,North America,Northern America,CAN,3519595,1014,1010
@@ -224,7 +224,7 @@ KOR9000073,Busan,Busan,35.18,129.075,South Korea,Asia,East Asia and Pacific,East
 CHN9000074,Hohhot,Hohhot,40.8151,111.6629,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3446100,1476,283
 USA9004495,Seattle,Seattle,47.6211,-122.3244,United States,North America,North America,Northern America,USA,3438221,993,986
 CHN9004496,Hanzhong,Hanzhong,33.0794,107.026,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3416196,1117,864
-DZA9000226,Algiers,Algiers,36.7539,3.0589,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,3415811,1556,751
+DZA9000226,Algiers,Algiers,36.7539,3.0589,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,3886202.077,1556,751
 CHN9004497,Tangshan,Tangshan,39.6292,118.1742,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3399231,1474,641
 CHN9002087,Shiyan,Shiyan,32.6351,110.7755,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3398000,1229,938
 CHN9002088,Siping,Siping,43.1715,124.3644,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3385156,1243,620
@@ -252,7 +252,7 @@ CHN9004502,Qinhuangdao,Qinhuangdao,39.9398,119.5881,China,Asia,East Asia and Pac
 CHN9002100,Tongliao,Tongliao,43.6172,122.264,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3139153,1440,438
 CHN9004503,Jinzhou,Jinzhou,41.1144,121.1292,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3126463,1361,560
 CHN9002101,Heyuan,Heyuan,23.7503,114.6923,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3093900,1374,1880
-TZA9002994,Dodoma,Dodoma,-6.1731,35.7419,Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,TZA,3085000,1991,585
+TZA9002994,Dodoma,Dodoma,-6.1731,35.7419,Tanzania,Africa,Sub-Saharan Africa,Eastern Africa,TZA,267470,1991,585
 USA9004504,San Diego,San Diego,32.8313,-117.1222,United States,North America,North America,Northern America,USA,3084174,1843,305
 IND9000081,Jaipur,Jaipur,26.9,75.8,India,Asia,South Asia,Southern Asia,IND,3073350,2161,625
 CHN9002102,Xinzhou,Xinzhou,38.4178,112.7233,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3067501,1467,427
@@ -260,7 +260,7 @@ CHN9000082,Lanzhou,Lanzhou,36.0617,103.8318,China,Asia,East Asia and Pacific,Eas
 CHN9002103,Wuzhou,Wuzhou,23.4833,111.3167,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3061100,1391,1597
 CHN9004505,Chaoyang,Chaoyang,41.5757,120.4486,China,Asia,East Asia and Pacific,Eastern Asia,CHN,3044641,1456,484
 GRC9000260,Athens,Athens,37.9842,23.7281,Greece,Europe,Europe and Central Asia,Southern Europe,GRC,3041131,1739,401
-ETH9000261,Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,Africa,Sub-Saharan Africa,Eastern Africa,ETH,3041002,1635,1101
+ETH9000261,Addis Ababa,Addis Ababa,9.03,38.74,Ethiopia,Africa,Sub-Saharan Africa,Eastern Africa,ETH,3711329,1635,1101
 BRA9000262,Brasília,Brasilia,-15.7939,-47.8828,Brazil,Latin America,Latin America and Caribbean,South America,BRA,3039444,1554,1502
 TWN9000083,Taichung,Taichung,24.1439,120.6794,Taiwan,Asia,East Asia and Pacific,Eastern Asia,TWN,3033885,1541,1807
 KWT9000264,Kuwait City,Kuwait City,29.3697,47.9783,Kuwait,Asia,Middle East and North Africa,Western Asia,KWT,3000000,3255,113
@@ -314,7 +314,7 @@ CHN9004521,Zibo,Zibo,36.7831,118.0497,China,Asia,East Asia and Pacific,Eastern A
 CHN9004522,Ankang,Ankang,32.6877,109.0235,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2629906,1217,921
 CHN9004523,Baoshan,Baoshan,25.1211,99.169,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2627000,1371,994
 CHN9002117,Huludao,Huludao,40.7094,120.8378,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2623541,1355,567
-MDG9000316,Antananarivo,Antananarivo,-18.9333,47.5167,Madagascar,Africa,Sub-Saharan Africa,Eastern Africa,MDG,2610000,1435,1286
+MDG9000316,Antananarivo,Antananarivo,-18.9333,47.5167,Madagascar,Africa,Sub-Saharan Africa,Eastern Africa,MDG,2500317,1435,1286
 DEU9000317,Munich,Munich,48.1375,11.575,Germany,Europe,Europe and Central Asia,Western Europe,DEU,2606021,969,963
 CHN9002118,Gulou,Gulou,26.0865,119.298,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2606000,1376,1397
 CHN9002119,Yanjiang,Yanjiang,30.1256,104.6397,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2593843,946,1102
@@ -340,9 +340,9 @@ ZAF9001003,Pretoria,Pretoria,-25.7461,28.1881,South Africa,Africa,Sub-Saharan Af
 CHN9002128,Huangshi,Huangshi,30.2018,115.0326,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2471700,1278,1396
 COL9000339,Cali,Cali,3.4206,-76.5222,Colombia,Latin America,Latin America and Caribbean,South America,COL,2471474,1344,1885
 CHN9000095,Xining,Xining,36.6239,101.7787,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2467965,1296,386
-ZMB9000341,Lusaka,Lusaka,-15.4167,28.2833,Zambia,Africa,Sub-Saharan Africa,Eastern Africa,ZMB,2467563,1990,825
+ZMB9000341,Lusaka,Lusaka,-15.4167,28.2833,Zambia,Africa,Sub-Saharan Africa,Eastern Africa,ZMB,2426689,1990,825
 KOR9000342,Daegu,Daegu,35.8717,128.6017,South Korea,Asia,East Asia and Pacific,Eastern Asia,KOR,2461002,1215,1072
-BFA9000343,Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,Africa,Sub-Saharan Africa,West Africa,BFA,2453496,2552,736
+BFA9000343,Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,Africa,Sub-Saharan Africa,West Africa,BFA,2299007,2552,736
 BRA9000344,Fortaleza,Fortaleza,-3.7275,-38.5275,Brazil,Latin America,Latin America and Caribbean,South America,BRA,2452185,1727,1592
 CHN9004530,Dandong,Dandong,40.1167,124.3833,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2444697,1110,984
 CMR9000346,Yaoundé,Yaounde,3.8667,11.5167,Cameroon,Africa,Sub-Saharan Africa,Middle Africa,CMR,2440462,1285,1637
@@ -354,7 +354,7 @@ LBN9001882,Beirut,Beirut,33.8869,35.5131,Lebanon,Asia,Middle East and North Afri
 IND9000097,N?gpur,Nagpur,21.1497,79.0806,India,Asia,South Asia,Southern Asia,IND,2405665,2190,1097
 USA9004531,Queens,Queens,40.7498,-73.7976,United States,North America,North America,Northern America,USA,2405464,1316,1122
 CHN9004532,Jilin,Jilin,43.8519,126.5481,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2396000,1057,685
-GHA9000354,Accra,Accra,5.55,-0.2,Ghana,Africa,Sub-Saharan Africa,West Africa,GHA,2388000,1554,883
+GHA9000354,Accra,Accra,5.55,-0.2,Ghana,Africa,Sub-Saharan Africa,West Africa,GHA,4452483,1554,883
 CHN9002132,Yuxi,Yuxi,24.3495,102.5432,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2386000,1255,880
 IDN9004533,Bekasi,Bekasi,-6.2349,106.9923,Indonesia,Asia,East Asia and Pacific,Southeastern Asia,IDN,2381053,1692,2020
 IND9004534,Gh?zi?b?d,Ghaziabad,28.67,77.42,India,Asia,South Asia,Southern Asia,IND,2375820,1967,829
@@ -386,7 +386,7 @@ CHN9002138,Shengli,Shengli,37.45,118.4667,China,Asia,East Asia and Pacific,Easte
 CHN9002139,Gaoping,Gaoping,30.7824,106.1281,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2174000,1007,1096
 CHN9002140,Taizhou,Taizhou,28.6583,121.4221,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2162461,1285,1437
 USA9000385,Las Vegas,Las Vegas,36.2333,-115.2654,United States,North America,North America,Northern America,USA,2150373,2869,120
-ZWE9000386,Harare,Harare,-17.8292,31.0522,Zimbabwe,Africa,Sub-Saharan Africa,Eastern Africa,ZWE,2150000,1911,854
+ZWE9000386,Harare,Harare,-17.8292,31.0522,Zimbabwe,Africa,Sub-Saharan Africa,Eastern Africa,ZWE,2272905,1911,854
 AUS9000387,Perth,Perth,-31.9559,115.8606,Australia,Oceania,East Asia and Pacific,Australia and New Zeland,AUS,2141834,2090,759
 CUB9000388,Havana,Havana,23.1367,-82.3589,Cuba,Caribbean,Latin America and Caribbean,Caribbean,CUB,2141652,1799,1281
 KHM9000389,Phnom Penh,Phnom Penh,11.5694,104.9211,Cambodia,Asia,East Asia and Pacific,Southeastern Asia,KHM,2129371,1837,1325
@@ -400,7 +400,7 @@ PAK9002143,Rawalpindi,Rawalpindi,33.6,73.0333,Pakistan,Asia,South Asia,Southern 
 CHN9002144,Yushan,Yushan,31.3867,120.9766,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2092496,1274,1094
 USA9004547,St. Louis,St. Louis,38.6359,-90.2451,United States,North America,North America,Northern America,USA,2092481,1327,976
 CHN9002145,Hezhou,Hezhou,24.4164,111.5478,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2072600,1301,1562
-GHA9000400,Kumasi,Kumasi,6.6667,-1.6167,Ghana,Africa,Sub-Saharan Africa,West Africa,GHA,2069350,1497,1395
+GHA9000400,Kumasi,Kumasi,6.6667,-1.6167,Ghana,Africa,Sub-Saharan Africa,West Africa,GHA,2802344,1497,1395
 CHN9002146,Pingliang,Pingliang,35.5412,106.6819,China,Asia,East Asia and Pacific,Eastern Asia,CHN,2068033,1159,524
 IND9004548,Vadodara,Vadodara,22.3,73.2,India,Asia,South Asia,Southern Asia,IND,2065771,2324,868
 USA9004549,Portland,Portland,45.5371,-122.65,United States,North America,North America,Northern America,USA,2036875,1156,1079
@@ -447,7 +447,7 @@ POL9000443,Warsaw,Warsaw,52.23,21.0111,Poland,Europe,Europe and Central Asia,Eas
 CHN9004558,Liaoyang,Liaoyang,41.2643,123.1772,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1858768,1210,700
 CHN9002155,Beihai,Beihai,21.4667,109.1,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1853227,1507,1673
 KEN9000131,Meru,Meru,0.05,37.65,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,1833000,1576,1780
-COG9000447,Brazzaville,Brazzaville,-4.2694,15.2714,Congo (Brazzaville),Africa,Sub-Saharan Africa,Middle Africa,COG,1827000,1264,1429
+COG9000447,Brazzaville,Brazzaville,-4.2694,15.2714,Congo (Brazzaville),Africa,Sub-Saharan Africa,Middle Africa,COG,1588304,1264,1429
 CHN9004559,Fuxin,Fuxin,42.0127,121.6486,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1819339,1397,496
 CHN9002156,Wuwei,Wuwei,37.9278,102.6329,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1815059,1480,171
 TUR9000132,Mersin,Mersin,36.8,34.6333,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,1814468,1706,668
@@ -474,13 +474,13 @@ IRQ9000139,Mosul,Mosul,36.34,43.13,Iraq,Asia,Middle East and North Africa,Wester
 IND9000141,Patna,Patna,25.6,85.1,India,Asia,South Asia,Southern Asia,IND,1684222,1874,1049
 USA9004567,Cleveland,Cleveland,41.4764,-81.6805,United States,North America,North America,Northern America,USA,1683059,1198,942
 HND9000473,Tegucigalpa,Tegucigalpa,14.1,-87.2167,Honduras,Latin America,Latin America and Caribbean,Central America,HND,1682725,1784,1061
-UGA9000474,Kampala,Kampala,0.3136,32.5811,Uganda,Africa,Sub-Saharan Africa,Eastern Africa,UGA,1680600,1494,1314
+UGA9000474,Kampala,Kampala,0.3136,32.5811,Uganda,Africa,Sub-Saharan Africa,Eastern Africa,UGA,3790894,1494,1314
 CHN9004568,Sanzhou,Sanzhou,30.82,108.4,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1680000,1124,1286
 CHN9004569,Changshu,Changshu,31.65,120.7333,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1677050,1250,996
 SAU9000142,Mecca,Mecca,21.4225,39.8233,Saudi Arabia,Asia,Middle East and North Africa,Western Asia,SAU,1675368,2897,88
 CHN9002160,Heihe,Heihe,50.2458,127.4886,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1673899,973,544
 CHN9002161,Jingdezhen,Jingdezhen,29.2942,117.2036,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1673200,1342,1665
-GIN9000480,Conakry,Conakry,9.5092,-13.7122,Guinea,Africa,Sub-Saharan Africa,West Africa,GIN,1667864,1915,3637
+GIN9000480,Conakry,Conakry,9.5092,-13.7122,Guinea,Africa,Sub-Saharan Africa,West Africa,GIN,2186966,1915,3637
 PHL9000143,Caloocan City,Caloocan City,14.65,120.97,Philippines,Asia,East Asia and Pacific,Southeastern Asia,PHL,1661584,1672,2348
 USA9000144,Indianapolis,Indianapolis,39.7771,-86.1458,United States,North America,North America,Northern America,USA,1659305,1161,1016
 USA9000145,Austin,Austin,30.3005,-97.7522,United States,North America,North America,Northern America,USA,1659251,1837,830
@@ -514,7 +514,7 @@ CRI9004418,San José,San Jose,9.9325,-84.08,Costa Rica,Latin America,Latin Americ
 JPN9004583,Kawasaki,Kawasaki,35.5167,139.7,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,1539522,1368,1565
 CHN9002165,Zhangjiajie,Zhangjiajie,29.1255,110.4844,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1537900,1170,1390
 IDN9000157,Palembang,Palembang,-2.9861,104.7556,Indonesia,Asia,East Asia and Pacific,Southeastern Asia,IDN,1535952,1535,2598
-NGA9002166,Aba,Aba,5.1167,7.3667,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1530000,1382,2367
+NGA9002166,Aba,Aba,5.1167,7.3667,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1687158,1382,2367
 JPN9000158,K?be,Kobe,34.69,135.1956,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,1521707,1363,1409
 CHN9002167,Jiaxing,Jiaxing,30.7522,120.75,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1518654,1249,1095
 USA9004584,Charlotte,Charlotte,35.2083,-80.8303,United States,North America,North America,Northern America,USA,1516107,1443,1162
@@ -533,7 +533,7 @@ IND9004589,N?sik,Nasik,20,73.78,India,Asia,South Asia,Southern Asia,IND,1486053,
 BRA9000163,Porto Alegre,Porto Alegre,-30.0331,-51.23,Brazil,Latin America,Latin America and Caribbean,South America,BRA,1484941,1396,1500
 VEN9000164,Valencia,Valencia,10.1667,-68,Venezuela,Latin America,Latin America and Caribbean,South America,VEN,1484430,1713,1052
 ARE9000533,Abu Dhabi,Abu Dhabi,24.4667,54.3667,United Arab Emirates,Asia,Middle East and North Africa,Western Asia,ARE,1483000,2729,62
-NGA9002172,Onitsha,Onitsha,6.1667,6.7833,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1483000,1499,1734
+NGA9002172,Onitsha,Onitsha,6.1667,6.7833,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,8530514,1499,1734
 MEX9002173,Zapopan,Zapopan,20.7167,-103.4,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,1476491,1925,908
 KOR9000165,Daejeon,Daejeon,36.351,127.385,South Korea,Asia,East Asia and Pacific,Eastern Asia,KOR,1475221,1191,1322
 USA9004590,Bronx,Bronx,40.8501,-73.8662,United States,North America,North America,Northern America,USA,1472654,1313,1174
@@ -546,7 +546,7 @@ NLD9000542,Amsterdam,Amsterdam,52.3728,4.8936,Netherlands,Europe,Europe and Cent
 CHN9004591,Pizhou,Pizhou,34.3422,118.0097,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1458038,1423,689
 MAR9004592,El Kelaa des Srarhna,El Kelaa des Srarhna,32.0481,-7.4083,Morocco,Africa,Middle East and North Africa,Northern Africa,MAR,1450021,2164,290
 UKR9000168,Kharkiv,Kharkiv,49.9925,36.2311,Ukraine,Europe,Europe and Central Asia,Eastern Europe,UKR,1446107,983,562
-SEN9000546,Dakar,Dakar,14.6928,-17.4467,Senegal,Africa,Sub-Saharan Africa,West Africa,SEN,1438725,2049,374
+SEN9000546,Dakar,Dakar,14.6928,-17.4467,Senegal,Africa,Sub-Saharan Africa,West Africa,SEN,3067637,2049,374
 CHN9002177,Yangshe,Yangshe,31.8775,120.5512,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1432044,1247,1013
 CHN9004593,Guyuan,Guyuan,36.008,106.2782,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1426000,1104,440
 CHN9004594,Rui’an,Rui'an,27.778,120.6526,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1424667,1325,1503
@@ -631,7 +631,7 @@ CHN9002198,Dadukou,Dadukou,26.5849,101.7149,China,Asia,East Asia and Pacific,Eas
 BRA9004625,Campinas,Campinas,-22.9058,-47.0608,Brazil,Latin America,Latin America and Caribbean,South America,BRA,1213792,1381,1306
 CHN9004626,Lingcheng,Lingcheng,22.7,110.35,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1211637,1442,1601
 BRA9004627,Vila Velha,Vila Velha,3.2167,-51.2167,Brazil,Latin America,Latin America and Caribbean,South America,BRA,1209091,1602,2952
-KEN9000197,Mombasa,Mombasa,-4.05,39.6667,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,1208333,1643,1090
+KEN9000197,Mombasa,Mombasa,-4.05,39.6667,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,1257654,1643,1090
 IND9004628,Najafgarh,Najafgarh,28.6092,76.9798,India,Asia,South Asia,Southern Asia,IND,1203180,2011,631
 CHN9002199,Xinyu,Xinyu,27.795,114.9242,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1202499,1239,1560
 RUS9000199,Chelyabinsk,Chelyabinsk,55.15,61.4,Russia,Europe,Europe and Central Asia,Eastern Europe,RUS,1202371,918,439
@@ -643,7 +643,7 @@ IND9004630,V?r?nasi,Varanasi,25.3189,83.0128,India,Asia,South Asia,Southern Asia
 JPN9000203,Hiroshima,Hiroshima,34.3914,132.4519,Japan,Asia,East Asia and Pacific,Eastern Asia,JPN,1198021,1283,1913
 THA9000204,Chiang Mai,Chiang Mai,18.7953,98.9986,Thailand,Asia,East Asia and Pacific,Southeastern Asia,THA,1198000,1673,1056
 NGA9000205,Maiduguri,Maiduguri,11.8333,13.15,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1197497,2512,566
-MOZ9000645,Maputo,Maputo,-25.9667,32.5833,Mozambique,Africa,Sub-Saharan Africa,Eastern Africa,MOZ,1191613,1640,753
+MOZ9000645,Maputo,Maputo,-25.9667,32.5833,Mozambique,Africa,Sub-Saharan Africa,Eastern Africa,MOZ,2607026,1640,753
 COD9000206,Mbandaka,Mbandaka,0.0478,18.2558,Congo (Kinshasa),Africa,Sub-Saharan Africa,Middle Africa,COD,1187837,1384,1810
 QAT9000647,Doha,Doha,25.2867,51.5333,Qatar,Asia,Middle East and North Africa,Western Asia,QAT,1186023,2733,84
 SAU9000207,Medina,Medina,24.47,39.61,Saudi Arabia,Asia,Middle East and North Africa,Western Asia,SAU,1180770,3153,70
@@ -664,7 +664,7 @@ IND9004635,Dhanb?d,Dhanbad,23.7998,86.4305,India,Asia,South Asia,Southern Asia,I
 MMR9004419,Nay Pyi Taw,Nay Pyi Taw,19.7475,96.115,Myanmar,Asia,East Asia and Pacific,Southeastern Asia,MMR,1160242,1762,1240
 CHN9002205,Kaiyuan,Kaiyuan,36.0656,113.8153,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1160000,1480,581
 CHN9002206,Zhuji,Zhuji,29.7169,120.2314,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1157938,1271,1364
-RWA9000667,Kigali,Kigali,-1.9536,30.0606,Rwanda,Africa,Sub-Saharan Africa,Eastern Africa,RWA,1156663,1447,1062
+RWA9000667,Kigali,Kigali,-1.9536,30.0606,Rwanda,Africa,Sub-Saharan Africa,Eastern Africa,RWA,2202094,1447,1062
 CHN9002207,Leiyang,Leiyang,26.4179,112.8457,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1151554,1170,1440
 CHN9002208,Yichun,Yichun,47.7235,128.8893,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1148126,999,637
 NGA9000213,Benin City,Benin City,6.3333,5.6222,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,1147188,1477,2065
@@ -702,12 +702,12 @@ CHN9002214,Ezhou,Ezhou,30.3972,114.8842,China,Asia,East Asia and Pacific,Eastern
 KAZ9004420,Nur-Sultan,Nur-Sultan,51.1472,71.4222,Kazakhstan,Asia,Europe and Central Asia,Central Asia,KAZ,1078362,1098,295
 BRA9004645,São Gonçalo,Sao Goncalo,-22.8269,-43.0539,Brazil,Latin America,Latin America and Caribbean,South America,BRA,1077687,1413,1189
 MEX9002215,Nezahualcóyotl,Nezahualcoyotl,19.4006,-99.0148,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,1077208,1830,617
-MRT9000705,Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,Africa,Sub-Saharan Africa,West Africa,MRT,1077169,2927,81
+MRT9000705,Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,Africa,Sub-Saharan Africa,West Africa,MRT,1060776,2927,81
 IND9004646,H?ora,Haora,22.58,88.3294,India,Asia,South Asia,Southern Asia,IND,1077075,1707,1605
 KOR9004647,Tongjin,Tongjin,37.2333,127.2,South Korea,Asia,East Asia and Pacific,Eastern Asia,KOR,1076369,1078,1312
 CHN9002216,Xiashi,Xiashi,30.5333,120.6833,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1076199,1244,1163
 ARM9000709,Yerevan,Yerevan,40.1814,44.5144,Armenia,Europe,Europe and Central Asia,Western Asia,ARM,1075800,1341,340
-BDI9000710,Bujumbura,Bujumbura,-3.3833,29.3667,Burundi,Africa,Sub-Saharan Africa,Eastern Africa,BDI,1075000,1576,1005
+BDI9000710,Bujumbura,Bujumbura,-3.3833,29.3667,Burundi,Africa,Sub-Saharan Africa,Eastern Africa,BDI,1043847,1576,1005
 KGZ9000711,Bishkek,Bishkek,42.8747,74.6122,Kyrgyzstan,Asia,Europe and Central Asia,Central Asia,KGZ,1074075,1477,431
 ZAF9004648,Vereeniging,Vereeniging,-26.6736,27.9319,South Africa,Africa,Sub-Saharan Africa,Southern Africa,ZAF,1074000,1966,650
 CHN9002217,Taixing,Taixing,32.1724,120.0142,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1073921,1259,993
@@ -743,13 +743,13 @@ CHN9004657,Linhai,Linhai,28.8523,121.1409,China,Asia,East Asia and Pacific,Easte
 NIC9000744,Managua,Managua,12.1544,-86.2738,Nicaragua,Latin America,Latin America and Caribbean,Central America,NIC,1028808,2007,1518
 KAZ9000243,Shymkent,Shymkent,42.3167,69.5958,Kazakhstan,Asia,Europe and Central Asia,Central Asia,KAZ,1028673,1739,487
 TUR9000244,Denizli,Denizli,37.7667,29.0833,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,1027782,1710,604
-NER9000747,Niamey,Niamey,13.515,2.1175,Niger,Africa,Sub-Saharan Africa,West Africa,NER,1026848,2730,475
+NER9000747,Niamey,Niamey,13.515,2.1175,Niger,Africa,Sub-Saharan Africa,West Africa,NER,1071481,2730,475
 EGY9004658,Shubr? al Khaymah,Shubra al Khaymah,30.1286,31.2422,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,1025569,2281,24
 BRA9000245,Maceió,Maceio,-9.6658,-35.735,Brazil,Latin America,Latin America and Caribbean,South America,BRA,1025360,1585,1957
 CHN9004659,Wafangdian,Wafangdian,39.6271,121.9972,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1024876,1296,669
 USA9004660,Louisville,Louisville,38.1663,-85.6485,United States,North America,North America,Northern America,USA,1022630,1331,1185
 CHN9004661,Zhongxiang,Zhongxiang,31.169,112.5853,China,Asia,East Asia and Pacific,Eastern Asia,CHN,1022514,1229,981
-LBR9000753,Monrovia,Monrovia,6.3133,-10.8014,Liberia,Africa,Sub-Saharan Africa,West Africa,LBR,1021762,1487,4473
+LBR9000753,Monrovia,Monrovia,6.3133,-10.8014,Liberia,Africa,Sub-Saharan Africa,West Africa,LBR,1190635,1487,4473
 UKR9000246,Odesa,Odesa,46.4775,30.7326,Ukraine,Europe,Europe and Central Asia,Eastern Europe,UKR,1017699,1120,458
 RUS9000247,Volgograd,Volgograd,48.7086,44.5147,Russia,Europe,Europe and Central Asia,Eastern Europe,RUS,1015586,1183,395
 PAK9000756,Islamabad,Islamabad,33.6931,73.0639,Pakistan,Asia,South Asia,Southern Asia,PAK,1014825,1719,1012
@@ -771,7 +771,7 @@ USA9000252,Oklahoma City,Oklahoma City,35.4676,-97.5136,United States,North Amer
 CHN9002228,Xingcheng,Xingcheng,24.1681,115.6669,China,Asia,East Asia and Pacific,Eastern Asia,CHN,993000,1396,1588
 CHN9002230,Dongtai,Dongtai,32.8534,120.3037,China,Asia,East Asia and Pacific,Eastern Asia,CHN,990306,1259,1006
 CAN9000774,Ottawa,Ottawa,45.4247,-75.695,Canada,North America,North America,Northern America,CAN,989567,990,927
-MWI9000775,Lilongwe,Lilongwe,-13.9833,33.7833,Malawi,Africa,Sub-Saharan Africa,Eastern Africa,MWI,989318,1740,872
+MWI9000775,Lilongwe,Lilongwe,-13.9833,33.7833,Malawi,Africa,Sub-Saharan Africa,Eastern Africa,MWI,1124965,1740,872
 HTI9004421,Port-au-Prince,Port-au-Prince,18.5333,-72.3333,Haiti,Caribbean,Latin America and Caribbean,Caribbean,HTI,987310,1811,1168
 CHN9002231,Yingcheng,Yingcheng,24.1878,113.4042,China,Asia,East Asia and Pacific,Eastern Asia,CHN,986400,1325,1740
 SDN9004671,Al Mijlad,Al Mijlad,11.0339,27.74,Sudan,Africa,Sub-Saharan Africa,Northern Africa,SDN,985000,2573,517
@@ -799,7 +799,7 @@ CHN9004679,Taishan,Taishan,22.2486,112.785,China,Asia,East Asia and Pacific,East
 BRA9000266,Teresina,Teresina,-5.0949,-42.8042,Brazil,Latin America,Latin America and Caribbean,South America,BRA,953172,1638,1447
 IRN9000267,Kerm?nsh?h,Kermanshah,34.3142,47.065,Iran,Asia,Middle East and North Africa,Southern Asia,IRN,952285,1954,493
 IND9004680,Sol?pur,Solapur,17.68,75.92,India,Asia,South Asia,Southern Asia,IND,951558,2346,719
-SLE9000804,Freetown,Freetown,8.4844,-13.2344,Sierra Leone,Africa,Sub-Saharan Africa,West Africa,SLE,951000,1645,3088
+SLE9000804,Freetown,Freetown,8.4844,-13.2344,Sierra Leone,Africa,Sub-Saharan Africa,West Africa,SLE,1456596,1645,3088
 SOM9000268,Baidoa,Baidoa,3.1167,43.65,Somalia,Africa,Sub-Saharan Africa,Eastern Africa,SOM,950000,2277,422
 SOM9000272,Gaalkacyo,Gaalkacyo,6.7697,47.4308,Somalia,Africa,Sub-Saharan Africa,Eastern Africa,SOM,950000,2658,173
 DOM9000273,Santo Domingo Este,Santo Domingo Este,18.4855,-69.8734,Dominican Republic,Caribbean,Latin America and Caribbean,Caribbean,DOM,948855,1997,1627
@@ -842,7 +842,7 @@ NGA9000287,Owerri,Owerri,5.4833,7.0333,Nigeria,Africa,Sub-Saharan Africa,West Af
 USA9000288,Hartford,Hartford,41.7661,-72.6834,United States,North America,North America,Northern America,USA,907046,1182,1136
 BRA9000289,Campo Grande,Campo Grande,-20.4839,-54.615,Brazil,Latin America,Latin America and Caribbean,South America,BRA,906092,1724,1468
 CHN9004697,Zhuanghe,Zhuanghe,39.6896,122.9664,China,Asia,East Asia and Pacific,Eastern Asia,CHN,905852,1228,766
-BFA9000290,Bobo-Dioulasso,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,Africa,Sub-Saharan Africa,West Africa,BFA,903887,2294,975
+BFA9000290,Bobo-Dioulasso,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,Africa,Sub-Saharan Africa,West Africa,BFA,667853,2294,975
 SAU9000291,Ad Damm?m,Ad Dammam,26.4333,50.1,Saudi Arabia,Asia,Middle East and North Africa,Western Asia,SAU,903312,2888,82
 CHN9004698,Quzhou,Quzhou,28.9545,118.8763,China,Asia,East Asia and Pacific,Eastern Asia,CHN,902767,1309,1585
 CHN9000292,Lhasa,Lhasa,29.6534,91.1719,China,Asia,East Asia and Pacific,Eastern Asia,CHN,902500,1572,392
@@ -851,7 +851,7 @@ CHN9004699,Jiaozhou,Jiaozhou,36.2481,119.9625,China,Asia,East Asia and Pacific,E
 MEX9000295,Mérida,Merida,20.97,-89.62,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,892363,1928,974
 CHN9004700,Yangchun,Yangchun,22.1717,111.7846,China,Asia,East Asia and Pacific,Eastern Asia,CHN,891800,1457,2063
 TUR9004701,Esenyurt,Esenyurt,41.047,28.658,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,891120,1355,690
-CAF9000856,Bangui,Bangui,4.3733,18.5628,Central African Republic,Africa,Sub-Saharan Africa,Middle Africa,CAF,889231,1634,1547
+CAF9000856,Bangui,Bangui,4.3733,18.5628,Central African Republic,Africa,Sub-Saharan Africa,Middle Africa,CAF,945883,1634,1547
 NGA9000297,Abeokuta,Abeokuta,7.1608,3.3483,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,888924,1518,1265
 MEX9002243,Cancún,Cancun,21.1606,-86.8475,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,888797,1787,1253
 IND9004702,Mor?d?b?d,Moradabad,28.8389,78.7769,India,Asia,South Asia,Southern Asia,IND,887871,1876,1025
@@ -889,7 +889,7 @@ GBR9004712,Southampton,Southampton,50.9025,-1.4042,United Kingdom,Europe,Europe 
 MEX9000313,Hermosillo,Hermosillo,29.0989,-110.9542,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,855563,2206,306
 CHN9002250,Wuxi,Wuxi,26.5895,111.8481,China,Asia,East Asia and Pacific,Eastern Asia,CHN,853197,1170,1372
 CHN9002251,Leping,Leping,28.9632,117.1203,China,Asia,East Asia and Pacific,Eastern Asia,CHN,852800,1325,1694
-DZA9000314,Oran,Oran,35.6969,-0.6331,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,852000,1618,360
+DZA9000314,Oran,Oran,35.6969,-0.6331,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,1043423.893,1618,360
 CHN9004713,Shache,Shache,38.4261,77.25,China,Asia,East Asia and Pacific,Eastern Asia,CHN,851374,1532,39
 MAR9004714,Sale,Sale,34.0333,-6.8,Morocco,Africa,Middle East and North Africa,Northern Africa,MAR,850403,1489,506
 CHN9002252,Hailun,Hailun,47.4585,126.9632,China,Asia,East Asia and Pacific,Eastern Asia,CHN,850000,1039,539
@@ -941,7 +941,7 @@ COL9002262,Palermo,Palermo,2.8917,-75.4375,Colombia,Latin America,Latin America 
 BRA9004733,Abaeté,Abaete,-19.1583,-45.4522,Brazil,Latin America,Latin America and Caribbean,South America,BRA,800000,1457,1332
 CHN9002263,Xigazê,Xigaze,29.25,88.8833,China,Asia,East Asia and Pacific,Eastern Asia,CHN,798153,1412,405
 CHN9002264,Qingping,Qingping,34.538,113.3796,China,Asia,East Asia and Pacific,Eastern Asia,CHN,797200,1441,651
-GAB9000947,Libreville,Libreville,0.3903,9.4542,Gabon,Africa,Sub-Saharan Africa,Middle Africa,GAB,797003,1238,2729
+GAB9000947,Libreville,Libreville,0.3903,9.4542,Gabon,Africa,Sub-Saharan Africa,Middle Africa,GAB,885670,1238,2729
 USA9004734,El Paso,El Paso,31.8476,-106.43,United States,North America,North America,Northern America,USA,794344,2450,268
 MYS9000334,George Town,George Town,5.4144,100.3292,Malaysia,Asia,East Asia and Pacific,Southeastern Asia,MYS,794313,1596,2647
 TUR9002265,Seyhan,Seyhan,36.9831,35.3328,Turkey,Asia,Europe and Central Asia,Western Asia,TUR,792536,1682,690
@@ -1562,7 +1562,7 @@ JPN9004999,Amagasaki,Amagasaki,34.7333,135.4,Japan,Asia,East Asia and Pacific,Ea
 USA9005000,Greenville,Greenville,34.8354,-82.3646,United States,North America,North America,Northern America,USA,450487,1449,1387
 UKR9002409,Mariupol,Mariupol,47.0958,37.5494,Ukraine,Europe,Europe and Central Asia,Eastern Europe,UKR,449498,1039,524
 GRC9002410,Piraeus,Piraeus,37.943,23.6469,Greece,Europe,Europe and Central Asia,Southern Europe,GRC,448997,1699,423
-DZA9000574,Constantine,Constantine,36.365,6.6147,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,448374,1687,665
+DZA9000574,Constantine,Constantine,36.365,6.6147,Algeria,Africa,Middle East and North Africa,Northern Africa,DZA,703927.4417,1687,665
 IRN9002411,Esl?mshahr,Eslamshahr,35.5606,51.2347,Iran,Asia,Middle East and North Africa,Southern Asia,IRN,448129,1973,235
 VEN9000575,Barcelona,Barcelona,10.1333,-64.6833,Venezuela,Latin America,Latin America and Caribbean,South America,VEN,448016,1928,877
 CHN9002412,Tanbei,Tanbei,35.0907,112.9317,China,Asia,East Asia and Pacific,Eastern Asia,CHN,447701,1465,562
@@ -1612,7 +1612,7 @@ CHN9002418,Huili Chengguanzhen,Huili Chengguanzhen,26.6614,102.2469,China,Asia,E
 TUN9000591,Sidi Bouzid,Sidi Bouzid,35.0381,9.4858,Tunisia,Africa,Middle East and North Africa,Northern Africa,TUN,429912,2182,245
 NGA9000592,Uyo,Uyo,5.05,7.9333,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,429900,1341,2494
 KOR9005023,Masan,Masan,35.1833,128.55,South Korea,Asia,East Asia and Pacific,Eastern Asia,KOR,429612,1211,1445
-EGY9000593,?an??,Tanta,30.7833,31,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,429503,2104,44
+EGY9000593,?an??,Tanta,30.7833,31,Egypt,Africa,Middle East and North Africa,Northern Africa,EGY,8246600,2104,44
 BRA9000595,Porto Velho,Porto Velho,-8.7619,-63.9039,Brazil,Latin America,Latin America and Caribbean,South America,BRA,428527,1227,2293
 PER9000596,Cusco,Cusco,-13.525,-71.9722,Peru,Latin America,Latin America and Caribbean,South America,PER,428450,1430,702
 MEX9002419,Veracruz,Veracruz,19.1903,-96.1533,Mexico,Latin America,Latin America and Caribbean,Central America,MEX,428323,1746,1509
@@ -1686,7 +1686,7 @@ CIV9005048,Koumassi,Koumassi,5.3,-3.95,Côte d'Ivoire,Africa,Sub-Saharan Africa,W
 RUS9005049,Sochi,Sochi,43.5853,39.7203,Russia,Europe,Europe and Central Asia,Eastern Europe,RUS,411524,1211,1618
 IND9005050,Bellary,Bellary,15.1,76.9167,India,Asia,South Asia,Southern Asia,IND,410445,2225,504
 IND9005051,Bh?galpur,Bhagalpur,25.25,87,India,Asia,South Asia,Southern Asia,IND,410210,1806,1120
-KEN9000624,Kisumu,Kisumu,-0.0833,34.7667,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,409928,2011,1499
+KEN9000624,Kisumu,Kisumu,-0.0833,34.7667,Kenya,Africa,Sub-Saharan Africa,Eastern Africa,KEN,5040159,2011,1499
 CHN9002432,Zhangjiakou Shi Xuanhua Qu,Zhangjiakou Shi Xuanhua Qu,40.5944,115.0243,China,Asia,East Asia and Pacific,Eastern Asia,CHN,409745,1503,373
 USA9005052,Augusta,Augusta,33.3645,-82.0708,United States,North America,North America,Northern America,USA,409668,1551,1160
 TKM9000625,Türkmenabat,Turkmenabat,39.0833,63.5667,Turkmenistan,Asia,Europe and Central Asia,Central Asia,TKM,408906,2090,135
@@ -2076,7 +2076,7 @@ USA9005244,Antioch,Antioch,37.9787,-121.796,United States,North America,North Am
 CHN9005245,Kaiyuan,Kaiyuan,23.7147,103.2585,China,Asia,East Asia and Pacific,Eastern Asia,CHN,322693,1403,974
 IND9005246,Shimoga,Shimoga,13.9333,75.5667,India,Asia,South Asia,Southern Asia,IND,322650,1895,981
 AGO9000769,Uíge,Uige,-7.6167,15.05,Angola,Africa,Sub-Saharan Africa,Middle Africa,AGO,322531,1338,1329
-NAM9002093,Windhoek,Windhoek,-22.57,17.0836,Namibia,Africa,Sub-Saharan Africa,Southern Africa,NAM,322500,2494,364
+NAM9002093,Windhoek,Windhoek,-22.57,17.0836,Namibia,Africa,Sub-Saharan Africa,Southern Africa,NAM,357256,2494,364
 CHN9002495,Hotan,Hotan,37.1,80.0167,China,Asia,East Asia and Pacific,Eastern Asia,CHN,322300,1530,39
 KGZ9000770,Osh,Osh,40.5333,72.7833,Kyrgyzstan,Asia,Europe and Central Asia,Central Asia,KGZ,322164,1458,341
 NGA9000771,Minna,Minna,9.6139,6.5569,Nigeria,Africa,Sub-Saharan Africa,West Africa,NGA,322163,2040,1215
@@ -4977,7 +4977,7 @@ ITA9003119,Forlì,Forli,44.2333,12.05,Italy,Europe,Europe and Central Asia,Southe
 NER9001468,Tahoua,Tahoua,14.8903,5.2642,Niger,Africa,Sub-Saharan Africa,West Africa,NER,117826,3231,339
 BRA9006864,Votorantim,Votorantim,-23.5469,-47.4378,Brazil,Latin America,Latin America and Caribbean,South America,BRA,117794,1204,1217
 BEN9006865,Gogounou,Gogounou,10.8386,2.8361,Benin,Africa,Sub-Saharan Africa,West Africa,BEN,117793,2255,999
-NER9001469,Agadez,Agadez,16.9959,7.9828,Niger,Africa,Sub-Saharan Africa,West Africa,NER,117770,3540,116
+NER9001469,Agadez,Agadez,16.9959,7.9828,Niger,Africa,Sub-Saharan Africa,West Africa,NER,119502,3540,116
 IND9006866,Pudukkottai,Pudukkottai,10.3833,78.8001,India,Asia,South Asia,Southern Asia,IND,117745,2197,952
 USA9006867,Round Rock,Round Rock,30.527,-97.6642,United States,North America,North America,Northern America,USA,117735,1851,847
 VEN9003120,Charallave,Charallave,10.2431,-66.8622,Venezuela,Latin America,Latin America and Caribbean,South America,VEN,117707,1719,1148
